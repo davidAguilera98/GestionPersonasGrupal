@@ -12,6 +12,6 @@ public class Persona {
 
     public Persona() {
     }
-    
+    //Tabulacion corregida
     
 }
