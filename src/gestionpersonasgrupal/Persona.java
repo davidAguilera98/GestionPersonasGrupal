@@ -9,5 +9,9 @@ package gestionpersonasgrupal;
  * @author David
  */
 public class Persona {
+
+    public Persona() {
+    }
+    
     
 }
